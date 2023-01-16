@@ -132,6 +132,7 @@ urlpatterns = [
 
 ## OUTPUT:
 ![](out.png)
+/home/sec/serversideprocessing/out.png
 ### Home Page:
 
 ![](home.png)
