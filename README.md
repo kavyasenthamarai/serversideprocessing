@@ -27,7 +27,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 math.html
-
+```python
 <!DOCTYPE html>
 <html>
     <head>
@@ -128,7 +128,7 @@ urlpatterns = [
     path('areaofrectangle/',views.rectarea,name="areaofrectangle"),
     path('',views.rectarea,name="areaofrectangleroot")
 ]
-
+```
 
 ## OUTPUT:
 ![](out.png)
