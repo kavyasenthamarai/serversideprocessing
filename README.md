@@ -132,6 +132,7 @@ urlpatterns = [
 
 ## OUTPUT:
 ![](out.png)
+## home:
 
 
 ## Result:
